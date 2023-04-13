@@ -1,0 +1,10 @@
+/.bsp/
+target/
+.bloop
+.metals
+.target-back
+.vscode
+dumps
+project
+docker-compose.yaml
+Dockerfile
